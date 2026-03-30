@@ -1,2 +1,2 @@
 console.log("main.js");
-console.log("Version 6 updated");
+console.log("Version 7");
