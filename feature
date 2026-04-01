@@ -1,2 +1,1 @@
-Copy Awesome Feature 
-
+Awesome Feature 
