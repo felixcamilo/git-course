@@ -1,1 +1,1 @@
-Feature 3
+Merge conflict resolved
